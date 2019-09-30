@@ -37,3 +37,7 @@ This project makes use of Udacity's Linux-based virtual machine (VM) configurati
 * [PostgreSQL 9.5 Documentation](https://www.postgresql.org/docs/9.5/static/index.html)
 * [Vagrant](https://www.vagrantup.com/downloads)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
+## Authors
+
+* **Saumyaraj Zala** - *Individual work* - [saumyaraj](https://github.com/saumyaraj)

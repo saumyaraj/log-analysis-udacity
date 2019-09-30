@@ -24,10 +24,10 @@ This project makes use of Udacity's Linux-based virtual machine (VM) configurati
 3. ```cd /vagrant``` to change to your vagrant directory.
 4. ```psql -d news -f newsdata.sql``` to load the data and create the tables.
 5. ```python3 newsdata.py``` to run the reporting tool.
-6. sudo apt-get install postgresql
-7. sudo apt-get install python-psycopg2
-8. sudo apt-get install libpq-dev
-9. pip3 install psycopg2
+6. ```sudo apt-get install postgresql```
+7. ```sudo apt-get install python-psycopg2```
+8. ```sudo apt-get install libpq-dev```
+9. ```pip3 install psycopg2```
 
 ## Output
 ![Output](/output.png)
